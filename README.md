@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayanism
 - 👀 I’m interested in building systems
-- 🌱 I’m currently learning android dev
+- 🌱 I’m a java developer
 - 📫 Feel free to read my projects
 
 <!---
